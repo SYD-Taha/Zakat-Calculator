@@ -1,0 +1,78 @@
+.about-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 40px;
+    background: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-content {
+    text-align: center;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+    margin-bottom: 15px;
+  }
+
+    h4 {
+        font-size: 36px;
+        font-weight: bold;
+    }
+  
+  .about-intro {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .features-list, .users-list {
+    text-align: left;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .features-list li, .users-list li {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  .steps {
+    text-align: left;
+    font-size: 16px;
+    background: #eef5ff;
+    padding: 15px;
+    border-left: 5px solid #007bff;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  .cta-section {
+    margin-top: 30px;
+    background: #007bff;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .cta-section h2 {
+    margin-bottom: 10px;
+  }
+  
+  .calculate-btn {
+    background: #fff;
+    color: #007bff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .calculate-btn:hover {
+    background: #0056b3;
+    color: white;
+  }
+  
